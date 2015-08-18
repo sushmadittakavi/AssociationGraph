@@ -1,0 +1,19 @@
+{
+  "name": "associationgraph",
+  "version": "1.0.0",
+  "description": "web application",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushmadittakavi/AssociationGraph.git"
+  },
+  "author": "sushma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushmadittakavi/AssociationGraph/issues"
+  },
+  "homepage": "https://github.com/sushmadittakavi/AssociationGraph#readme"
+}
